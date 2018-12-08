@@ -1,3 +1,4 @@
+
 // <--- Sblack start --->
 // First make sure the wrapper app is loaded
 document.addEventListener("DOMContentLoaded", function() {
